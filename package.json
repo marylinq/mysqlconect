@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/marylinq/mysqlconect/issues"
   },
-  "homepage": "https://github.com/marylinq/mysqlconect#readme"
+  "homepage": "https://github.com/marylinq/mysqlconect#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
